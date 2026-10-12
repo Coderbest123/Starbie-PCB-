@@ -15,3 +15,6 @@ This is the image of the finished PCB board layout.
 
 This is another image of the PCB board layout just the 3d view with the decorations.
 <img width="1477" height="841" alt="Screenshot 2026-10-06 172851" src="https://github.com/user-attachments/assets/e3f23da0-2393-47f9-a715-edc65bc5afbf" />
+
+Here is the link for my bill of materials:
+https://docs.google.com/spreadsheets/d/10q8pMIky_aM09YcdwQJWLhjSBLJ2LHrK2xrXPv-Mt7s/edit?usp=sharing
