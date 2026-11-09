@@ -10,11 +10,11 @@ Here is an image of the schematic layout with the processer, sensors, buttons an
 
 
 This is the image of the finished PCB board layout.
-<img width="1917" height="1020" alt="Screenshot 2026-10-06 170630" src="https://github.com/user-attachments/assets/e4369c34-3414-4cfd-8a1c-dc1c520288dc" />
+<img width="902" height="653" alt="Screenshot 2026-11-09 180812" src="https://github.com/user-attachments/assets/2370b4cb-dc3a-43d8-86da-277c6db0dd72" />
 
 
 This is another image of the PCB board layout just the 3d view with the decorations.
-<img width="1477" height="841" alt="Screenshot 2026-10-06 172851" src="https://github.com/user-attachments/assets/e3f23da0-2393-47f9-a715-edc65bc5afbf" />
+<img width="1112" height="697" alt="Screenshot 2026-11-09 180821" src="https://github.com/user-attachments/assets/3ec250d4-a17e-4849-84f0-a93e912169f7" />
 
 
 | Part Name | Cost | Quantity | Vendor |
